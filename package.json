@@ -1,18 +1,17 @@
 {
   "name": "nr-music",
   "version": "1.0.0",
-  "description": "🎵 NR MUSIC — Global Discord Music Bot",
+  "description": "NR MUSIC - Global Discord Music Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=24.17.0"
   },
   "dependencies": {
-    "@discordjs/voice": "^0.19.0",
-    "discord.js": "^14.25.1",
-    "express": "^5.1.0",
-    "play-dl": "^1.9.7"
+    "@discordjs/voice": "^0.19.2",
+    "discord.js": "^14.27.0",
+    "express": "^5.1.0"
   }
 }
