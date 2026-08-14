@@ -1,6 +1,7 @@
 {
   "name": "nr-music",
   "version": "1.0.0",
+  "description": "NR MUSIC - Global Discord Music Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
